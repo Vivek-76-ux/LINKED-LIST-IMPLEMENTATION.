@@ -18,3 +18,5 @@ Removes the first occurrence of a node with the specified value from the list. I
 Traversal (Display):
 Iterates through the list and prints the value of each node in order, ending with NULL to indicate the end of the list.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/daf0f32f-045e-470b-91df-829648ca739c)
