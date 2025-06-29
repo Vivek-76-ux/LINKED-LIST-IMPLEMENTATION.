@@ -3,7 +3,7 @@ NAME: VIVEK KUMAR
 INTERN ID: CT04DF2521
 DOMAIN: C LANGUAGE 
 DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTHOSH
 
 This project demonstrates a modular and efficient implementation of a Singly Linked List in the C programming language. A linked list is a linear data structure where each element (node) contains a data part and a pointer to the next node in the sequence.
 
